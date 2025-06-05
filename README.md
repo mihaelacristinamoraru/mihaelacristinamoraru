@@ -39,6 +39,7 @@ I'm a passionate Web Developer with hands-on experience in:
 
 🔗 [nZEBexpert – Online Shop](https://nzebexpert.ro)
 🔗 [ADP Creator – Website Prezentare](https://adpcreator.com/)
+🔗 [Lumeria - Website Blog](https://lumeria.ro/)
 
 <br>
 🔧 More projects coming soon! ✨
@@ -69,7 +70,7 @@ I'm a passionate Web Developer with hands-on experience in:
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/mihaela-cristina-moraru/)
 
-- 🌍 [Website](#) *(Coming soon)*
+- 🌍 [Website](https://lumeria.ro/)
 
 ---
 
